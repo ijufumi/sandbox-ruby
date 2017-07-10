@@ -1,3 +1,6 @@
+#
+# 全て写経
+#
 @cnt = 0
 def change(target, coins, usable)
   coin = coins.shift

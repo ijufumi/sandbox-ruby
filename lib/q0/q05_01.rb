@@ -1,3 +1,6 @@
+#
+# 半分写経
+#
 $exchange = {500 => Array.new(5, 100), 100 => Array.new(2, 50), 50 => Array.new(5, 10)}
 
 def calc(pattern)

@@ -1,3 +1,6 @@
+#
+# 全て自力
+#
 num = 11
 while true
   if num.to_s == num.to_s.reverse &&

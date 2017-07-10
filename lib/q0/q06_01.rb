@@ -1,3 +1,6 @@
+#
+# 全て自力
+#
 def calculate(n)
   m = n
   flag = false

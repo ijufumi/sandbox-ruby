@@ -1,3 +1,6 @@
+#
+# 全て自力
+#
 require 'date'
 
 (Date.parse('1964-10-10')..Date.parse('2020-07-24')).each{ |date|

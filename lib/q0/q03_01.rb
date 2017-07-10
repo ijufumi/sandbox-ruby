@@ -1,3 +1,6 @@
+#
+# 全て写経
+#
 cards = Array.new(100, false)
 
 (2..100).each{|i|
